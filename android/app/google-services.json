@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439557790639",
+    "project_id": "dynamic-polyline",
+    "storage_bucket": "dynamic-polyline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439557790639:android:92e205dbaf5b54d21bed5a",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_polyline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RxqkunnDvDPsD-m6HWLPiXA4d8NB1d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
